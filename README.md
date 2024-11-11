@@ -1,10 +1,5 @@
 <h3 align="center">Storage and File Sharing Platform</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on 
-    </div>
-</div>
-
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React 19
